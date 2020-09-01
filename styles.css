@@ -18,28 +18,28 @@ h1 {
     height: auto;
     margin: 15px 25%;
     border: 2px blue solid;
-
 }
 #pic3 {
     width: 20%;
     height: auto;
     margin: 15px 40%;
     border: 2px blue solid;
-
 }
-#pic4, #pic6, #pic8 {
+#pic4, #pic6, #pic8, #pic10 {
     width: 30%;
     height: auto;
     margin: 15px 35%;
     border: 2px blue solid;
-
 }
-#pic5, #pic7 {
+#pic5, #pic7, #pic9 {
     width: 30%;
     height: auto;
     margin: 15px 35%;
     border: 2px blue solid;
-
+}
+iframe {
+    margin: 15px 33%;
+    border: 2px blue solid;
 }
 footer {
     text-align: center;

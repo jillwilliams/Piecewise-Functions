@@ -1,0 +1,47 @@
+body {
+    margin: 25px 25px;
+    background-color: rgb(210,57,53);
+    font-family: "Shadows Into Light";
+    letter-spacing: 3px;
+    font-size: 1.7rem;
+    text-shadow: 2px 2px 3px darkgrey;
+    color: white;
+}
+h1 {
+    font-size: 2rem;
+    text-align: center;
+    text-shadow: 2px 2px 3px darkgrey;
+    color: white;
+}
+#pic1, #pic2 {
+    width: 50%;
+    height: auto;
+    margin: 15px 25%;
+    border: 2px blue solid;
+
+}
+#pic3 {
+    width: 20%;
+    height: auto;
+    margin: 15px 40%;
+    border: 2px blue solid;
+
+}
+#pic4, #pic6, #pic8 {
+    width: 30%;
+    height: auto;
+    margin: 15px 35%;
+    border: 2px blue solid;
+
+}
+#pic5, #pic7 {
+    width: 30%;
+    height: auto;
+    margin: 15px 35%;
+    border: 2px blue solid;
+
+}
+footer {
+    text-align: center;
+    font-size: 1rem;
+}
